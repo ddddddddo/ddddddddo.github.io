@@ -8,9 +8,13 @@ h1 {
     color:rgb(255, 196, 247);
 }
 
-h2 {
-    color: rgb(17, 67, 216);
+h5 {
+    color: #000000;
     text-align: center;
+    /*background-color: #bebebe;
+    background-size: 50px;
+    border: 3px rgb(236, 222, 234);
+    border-style: solid;*/
 }
 
 nav{
