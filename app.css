@@ -5,7 +5,12 @@
 }
 
 h1 {
-    color:rgb(255, 196, 247)
+    color:rgb(255, 196, 247);
+}
+
+h2 {
+    color: rgb(17, 67, 216);
+    text-align: center;
 }
 
 nav{
