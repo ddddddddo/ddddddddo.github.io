@@ -53,4 +53,13 @@ h1{
     background:#000;
 }
 
+.column {
+    float: left;
+    padding: 5px;
+}
 
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
